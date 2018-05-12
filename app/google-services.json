@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1094842678732",
+    "firebase_url": "https://cookybooky-203910.firebaseio.com",
+    "project_id": "cookybooky-203910",
+    "storage_bucket": "cookybooky-203910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094842678732:android:21b81f24277ca4a4",
+        "android_client_info": {
+          "package_name": "com.shiminion.cookybooky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094842678732-ij22pp6o5mj0kau645jeoeesttn5bnt4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shiminion.cookybooky",
+            "certificate_hash": "dd60728bbce5bcd576339c5877be3d5d04a690de"
+          }
+        },
+        {
+          "client_id": "1094842678732-0l5gdpgibni1hcfkod01nbjlh3eqt7dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnUGu2NlNyUUmhZV3TmGwiE5iFU4qo6TY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094842678732-0l5gdpgibni1hcfkod01nbjlh3eqt7dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
