@@ -31,8 +31,8 @@ public class SplashActivity extends AppCompatActivity {
      */
     private void gotoNextScreen(){
         ObjectAnimator fadeOut = ObjectAnimator.ofFloat(splash_layout, "alpha",  1f, 0.3f);
-        fadeOut.setDuration(800);
-        fadeOut.setStartDelay(2000);
+        fadeOut.setDuration(1000);
+        fadeOut.setStartDelay(1000);
         fadeOut.start();
         fadeOut.addListener(new Animator.AnimatorListener() {
             @Override
