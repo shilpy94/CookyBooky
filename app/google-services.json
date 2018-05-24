@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1094842678732-fdci2k0sia77aqiuand9jtis8cvpbaum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shiminion.cookybooky",
+            "certificate_hash": "3289ea24a0434d3e747b248f095eceeb09c37cdb"
+          }
+        },
+        {
           "client_id": "1094842678732-ij22pp6o5mj0kau645jeoeesttn5bnt4.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {

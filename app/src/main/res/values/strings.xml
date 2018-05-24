@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">CookyBooky</string>
+    <string name="app_name">Swaad-Mouth Watering Recipe</string>
+    <string name="app_id">ca-app-pub-9678916816267507~6126090771</string>
+    <string name="admob_inter_id">ca-app-pub-9678916816267507/2409782017</string>
 </resources>
